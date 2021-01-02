@@ -1,5 +1,5 @@
 import { Paper } from '@material-ui/core';
-import React from 'react';
+import React, { useEffect } from 'react';
 import './App.css';
 import { AccountSummary } from './Components/AccountSummary';
 import { Balance } from './Components/Balance';
@@ -11,9 +11,11 @@ import { swDev } from './swDev';
 import { initNotifications } from './firebaseNotifications';
 
 function App() {
-  
+  useEffect(()=>{
     swDev();
     initNotifications();
+  },[])
+  
  
   return (
     <GlobalProvider>
