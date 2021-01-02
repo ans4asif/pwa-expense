@@ -1,7 +1,7 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
   "/",
-  "/index.html",
+  "index.html",
   "/static/js/bundle.js",
   "/static/js/0.chunk.js",
   "/static/js/main.chunk.js",
