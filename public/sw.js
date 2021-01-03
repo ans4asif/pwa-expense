@@ -8,7 +8,11 @@ var urlsToCache = [
   "/manifest.json",
   "/logo192.png",
   "/favicon.ico",
-  "/robots.txt"
+  "/robots.txt",
+  "/static/js/2.2dab9184.chunk.js",
+  "static/js/main.c77922a6.chunk.js",
+  "/static/css/main.19ef27d0.chunk.css",
+  
 
 
 
