@@ -1,18 +1,15 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
   "/",
-  "/index.html",
+  "index.html",
   "/static/js/bundle.js",
   "/static/js/0.chunk.js",
   "/static/js/main.chunk.js",
   "/manifest.json",
   "/logo192.png",
   "/favicon.ico",
-  "/robots.txt",
-  "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
-  "https://fonts.googleapis.com/icon?family=Material+Icons",
-  "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap",
-  
+  "/robots.txt"
+
 
 
 ];
