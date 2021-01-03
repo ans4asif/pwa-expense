@@ -8,7 +8,6 @@ var urlsToCache = [
   "/manifest.json",
   "/logo192.png",
   "/favicon.ico",
-  "/asset-manifest.json",
   "/robots.txt"
 
 
