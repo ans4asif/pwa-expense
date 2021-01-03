@@ -8,7 +8,11 @@ var urlsToCache = [
   "/manifest.json",
   "/logo192.png",
   "/favicon.ico",
-  "/robots.txt"
+  "/robots.txt",
+  "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2",
+  "https://fonts.googleapis.com/icon?family=Material+Icons",
+  "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap",
+  
 
 
 ];
