@@ -10,9 +10,7 @@ var urlsToCache = [
   "/favicon.ico",
   "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap",
   "https://fonts.googleapis.com/icon?family=Material+Icons",
-  "https://fonts.googleapis.com/icon?family=Material+Icons",
-  "chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/react_devtools_backend.js",
-
+  "https://fonts.googleapis.com/icon?family=Material+Icons"
 ];
 
 self.addEventListener('install', function(event) {
