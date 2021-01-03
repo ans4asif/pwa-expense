@@ -1,25 +1,17 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
   "/",
-  "/index.html",
+  // "/index.html",
   "/static/js/bundle.js",
   "/static/js/0.chunk.js",
   "/static/js/main.chunk.js",
   "/manifest.json",
   "/logo192.png",
   "/favicon.ico",
-  "/robots.txt",
-  "/static/js/2.2dab9184.chunk.js",
-  "/static/css/main.19ef27d0.chunk.css",
-  "/asset-manifest.json",
-  "/static/js/3.7904a9fb.chunk.js",
-  "/static/js/main.79025749.chunk.js",
-  "/static/js/runtime-main.4c74c942.js",
-  "/static/cssmain.19ef27d0.chunk.css"
-
-  
-
-
+  "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap",
+  "https://fonts.googleapis.com/icon?family=Material+Icons",
+  "https://fonts.googleapis.com/icon?family=Material+Icons",
+  "chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/react_devtools_backend.js",
 
 ];
 
