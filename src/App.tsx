@@ -12,8 +12,9 @@ import { initNotifications } from './firebaseNotifications';
 
 function App() {
   useEffect(()=>{
-    swDev();
+    
     initNotifications();
+    swDev();
   },[])
   
  
